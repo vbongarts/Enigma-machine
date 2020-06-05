@@ -4,5 +4,5 @@ Rotor B = "nopqrstuvwxyzabcdefghijklm"
 Rotor C = "ijklmnopqrstuvwxyzabcdefgh"
 
 
-input(hi)
+
 
