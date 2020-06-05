@@ -1,7 +1,8 @@
 alphabet = "abcdefghijklmnopqrstuvwxyz"
+Rotor A = "uvwxyzabcdefghijklmnopqrst"
+Rotor B = "nopqrstuvwxyzabcdefghijklm"
+Rotor C = "ijklmnopqrstuvwxyzabcdefgh"
+
 
 input(hi)
 
-newrotor(A)
-newrotor(B)
-newrotor(C)
