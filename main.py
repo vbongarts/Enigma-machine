@@ -3,4 +3,5 @@ Rotor1 = "uvwxyzabcdefghijklmnopqrst"
 Rotor2 = "nopqrstuvwxyzabcdefghijklm"
 Rotor3 = "ijklmnopqrstuvwxyzabcdefgh"
 
-Woord = str(input("Gekozen woord"))
+#vul hieronder tussen de haakjes jouw gekozen woord in.
+Woord = str(input(""))
