@@ -3,6 +3,8 @@ Rotor1 = "uvwxyzabcdefghijklmnopqrst"
 Rotor2 = "nopqrstuvwxyzabcdefghijklm"
 Rotor3 = "ijklmnopqrstuvwxyzabcdefgh"
 
+beginwoord = input("Hier je woord typen:")
+print("Het beginwoord is:" + beginwoord)
 
 print(alphabet.index("0"))
 print(Rotor1.index("0"))
@@ -14,3 +16,4 @@ def encrypt(letter) :
 
   for letter in "woord":
     encrypt letter
+
