@@ -5,3 +5,6 @@ Rotor3 = "ijklmnopqrstuvwxyzabcdefgh"
 
 #vul hieronder tussen de haakjes jouw gekozen woord in.
 Woord = str(input(""))
+
+print(alphabet.index("0"))
+print(Rotor1.index("0"))
