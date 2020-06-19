@@ -11,9 +11,8 @@ print(Rotor1.index("0"))
 
 def encrypt(letter) :
   ind = alphabet.index(letter)
-  newLetter = Rotor1[ind]
-  print(newLetter)
+  newletter = Rotor1[ind]
+  print(newletter)
 
-  for letter in "woord":
-    encrypt letter
-
+  for letter in "woord"
+  encrypt letter
